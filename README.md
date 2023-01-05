@@ -3,6 +3,8 @@
 Music Player App
 This is a music player app built using Python and the Kivy framework. It was completed with the assistance of the tutorial found at https://www.youtube.com/watch?v=w9AvVmyxUIc&t=274s&ab_channel=ProgrammingFever
 
+![JukeBox](App_Screenshot.png)
+
 Features
 Play, pause, and skip tracks
 Add tracks to a playlist
